@@ -11,6 +11,7 @@ function setSystemSoundEffect() {
     # Download audio files
     cd /tmp
     wget https://github.com/sheikhshakibhossain/leaveTraceLinux/raw/main/sound/yeh_ma_ka_bhosra.ogg
+    clear
     wget https://github.com/sheikhshakibhossain/leaveTraceLinux/raw/main/sound/anime_girl_moan.ogg
     clear
     
